@@ -1,0 +1,10 @@
+com/virta/Validators/CustomerValidator.class
+com/virta/virta/resources/JavaEE8Resource.class
+com/virta/virta/JAXRSConfiguration.class
+com/virta/Validators/BeanValidator.class
+com/virta/virta/AttendeeRequest.class
+com/virta/virta/Attendee.class
+com/virta/Validators/MailValidator.class
+com/virta/Validators/PhoneValidator.class
+com/virta/Validators/StringValidator.class
+com/virta/virta/AttendeeRequest$RequestAttendee.class

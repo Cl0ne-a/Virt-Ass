@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="VirtA:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>VirtA</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="VirtA-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="VirtA:war exploded" />
+    </root>
+  </artifact>
+</component>
