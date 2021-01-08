@@ -1,2 +1,2 @@
 # Virt-Ass
-Virtual Assistant in clents registration
+Virtual Assistant for clients registration
